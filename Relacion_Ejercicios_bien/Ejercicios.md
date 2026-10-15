@@ -4,7 +4,7 @@
 
 
 
-##Ejercicio 1
+## Ejercicio 1
 
 - Apartado 1: 81,6_(10)
 
@@ -14,7 +14,7 @@
 ![Desarrollo ejercicio1](./IMG/1.jpeg)
 
 
-##Ejercicio 2
+## Ejercicio 2
 
 - Apartado a: 179,6875_(10)
 
@@ -26,7 +26,7 @@
 ![Desarrollo ejercicio2](./IMG/2.jpeg)
 
 
-##Ejercicio 3
+## Ejercicio 3
 
 - Resultado: 2613,4_(8)
 
@@ -34,7 +34,7 @@
 ![Desarrollo ejercicio3](./IMG/3.jpeg)
 
 
-##Ejercicio 4
+## Ejercicio 4
 
 - Suma: 1101111,11
 
@@ -44,7 +44,7 @@
 ![Desarrollo ejercicio4](./IMG/4.jpeg)
 
 
-##Ejercicio 5
+## Ejercicio 5
 
 - Apartado a: 26
 
@@ -58,7 +58,7 @@
 ![Desarrollo ejercicio5](./IMG/5.jpeg)
 
 
-##Ejercicio 6
+## Ejercicio 6
 
 - Resultado: 01100000
 
@@ -66,7 +66,7 @@
 ![Desarrollo ejercicio6](./IMG/6.jpeg)
 
 
-##Ejercicio 7
+## Ejercicio 7
 
 - Multiplicación a: 1111101000
 
@@ -80,7 +80,7 @@
 ![Desarrollo ejercicio7](./IMG/7.jpeg)
 
 
-##Ejercicio 8
+## Ejercicio 8
 
 - Apartado a: 393.216 bits / 384.000 bits
 
@@ -90,7 +90,7 @@
 ![Desarrollo ejercicio8](./IMG/8.jpeg)
 
 
-##Ejercicio 9
+## Ejercicio 9
 
 - Expresión lógica: S = (A (+) B) (+) C
 
@@ -122,7 +122,7 @@ A | B | C | C! | A (+) B | (A (+) B) (+) C! | S
 ![Desarrollo ejercicio9](./IMG/9.jpeg)
 
 
-##Ejercicio 10
+## Ejercicio 10
 
 - Funciones simplificadas: AC y AB
 
