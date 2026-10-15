@@ -11,7 +11,7 @@
 - Apartado 2: 240,375_(10)
 
 
-![Desarrollo ejercicio1](/IMG/1.jpeg)
+![Desarrollo ejercicio1](./IMG/1.jpeg)
 
 
 ##Ejercicio 2
@@ -23,7 +23,7 @@
 - Apartado c: B3,B_(16)
 
 
-![Desarrollo ejercicio2](/IMG/2.jpeg)
+![Desarrollo ejercicio2](./IMG/2.jpeg)
 
 
 ##Ejercicio 3
@@ -31,7 +31,7 @@
 - Resultado: 2613,4_(8)
 
 
-![Desarrollo ejercicio3](/IMG/3.jpeg)
+![Desarrollo ejercicio3](./IMG/3.jpeg)
 
 
 ##Ejercicio 4
@@ -41,7 +41,7 @@
 - Resta: 0000000,1
 
 
-![Desarrollo ejercicio4](/IMG/4.jpeg)
+![Desarrollo ejercicio4](./IMG/4.jpeg)
 
 
 ##Ejercicio 5
@@ -55,7 +55,7 @@
 - Apartado d: 01101110
 
 
-![Desarrollo ejercicio5](/IMG/5.jpeg)
+![Desarrollo ejercicio5](./IMG/5.jpeg)
 
 
 ##Ejercicio 6
@@ -63,7 +63,7 @@
 - Resultado: 01100000
 
 
-![Desarrollo ejercicio6](/IMG/6.jpeg)
+![Desarrollo ejercicio6](./IMG/6.jpeg)
 
 
 ##Ejercicio 7
@@ -77,7 +77,7 @@
 - Desplazamiento a la derecha (3 bits): 27_(10)
 
 
-![Desarrollo ejercicio7](/IMG/7.jpeg)
+![Desarrollo ejercicio7](./IMG/7.jpeg)
 
 
 ##Ejercicio 8
@@ -87,7 +87,7 @@
 - Apartado b: 134,217 MB
 
 
-![Desarrollo ejercicio8](/IMG/8.jpeg)
+![Desarrollo ejercicio8](./IMG/8.jpeg)
 
 
 ##Ejercicio 9
@@ -119,11 +119,11 @@ A | B | C | C! | A (+) B | (A (+) B) (+) C! | S
 1 | 1 | 1 |   0   |    0    |          0          | 0
 
 
-![Desarrollo ejercicio9](/IMG/9.jpeg)
+![Desarrollo ejercicio9](./IMG/9.jpeg)
 
 
 ##Ejercicio 10
 
 - Funciones simplificadas: AC y AB
 
-![Desarrollo ejercicio10](/IMG/10.jpeg)
+![Desarrollo ejercicio10](./IMG/10.jpeg)
