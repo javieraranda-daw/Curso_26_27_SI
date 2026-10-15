@@ -55,8 +55,8 @@
 - Apartado d: 01101110
 
 
-![Desarrollo ejercicio5](./IMG/5.jpeg)
-
+![Desarrollo ejercicio5](./IMG/5a.jpeg)
+![Desarrollo ejercicio5b](./IMG/5b.jpeg)
 
 ## Ejercicio 6
 
